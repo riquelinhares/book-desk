@@ -128,7 +128,7 @@ $ export FLASK_ENV=development
 $ export WARP_DATABASE=postgresql://warp:warp@localhost:5432/warp
 
 # run the app
-$ flash run
+$ flask run
 ```
 
 After that, open http://127.0.0.1:5000 in your browser and log in as `admin` with password `noneshallpass`.
