@@ -20,7 +20,7 @@
     "mini-css-extract-plugin": "^2.4.5",
     "node-polyglot": "^2.4.2",
     "nouislider": "^15.5.0",
-    "postcss": "^8.3.11",
+    "postcss": "^8.4.31",
     "postcss-loader": "^6.2.0",
     "postcss-preset-env": "^7.0.1",
     "sass": "^1.43.4",
